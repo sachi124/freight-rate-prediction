@@ -1,0 +1,15 @@
+{
+  "target_column": "posted_rate",
+  "selected_model": "hist_gradient_boosting",
+  "development_rows": 48000,
+  "validation_rows": 12000,
+  "best_holdout_metrics": {
+    "model": "hist_gradient_boosting",
+    "mae": 128.96136994901198,
+    "rmse": 634.2301904337423,
+    "mape_percent": 6.252896354037958,
+    "r2": 0.8270317100547957,
+    "runtime_seconds": 70.09245010005543
+  },
+  "random_state": 42
+}
